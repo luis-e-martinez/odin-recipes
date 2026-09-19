@@ -2,8 +2,9 @@
 In this project I will show that I learned the basics of HTML. This include correct use of tags, lists, links and images.
 
 Images attribution:
-Pancakes: Kanko from Nagasaki, Japan, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons
 
-Cookies: “Perfect Chocolate Chip Cookies” by Kimberly Vardeman, CC BY 2.0, via flickr
+Pancakes: Kanko from Nagasaki, Japan, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Make_a_pancake.jpg
 
-Lasagna: Sambawamba, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+Cookies: “Perfect Chocolate Chip Cookies” by Kimberly Vardeman, CC BY 2.0, via flickr. https://www.flickr.com/photos/kimberlykv/4643536339
+
+Lasagna: Sambawamba, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Lasagna_bolognese.jpg
